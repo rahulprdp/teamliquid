@@ -17,4 +17,4 @@ We had interviews with some of the doctors from a local clinic to find out what 
 |User Research | 90 Mins      
 |Brainstorming Ideas        |60 Mins : 13 - Feb - 2022      
 |Finalizing Ideas         | 60 Mins : 14 - Feb - 2022
-|Making Diagrams       | 70 Mins 15 : Feb - 2022
+|Making Diagrams       | 70 Mins : 15 - Feb - 2022
