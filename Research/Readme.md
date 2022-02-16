@@ -1,4 +1,4 @@
-# User Stories
+# User Research
 
 We had interviews with some of the doctors from a local clinic to find out what their current situation is, what kind of features they want and how this will help them.
 
