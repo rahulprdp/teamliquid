@@ -9,3 +9,12 @@ We had interviews with some of the doctors from a local clinic to find out what 
 **Shafnas , Assistant Doctor**
 
 > "A Cash Registrar feature and Patient registrar feature will be really helpful to maintain the daily records. It would be easy to monitor the progress of the treatment and know the expenses and medicines given till date"
+
+## Meeting Minuites 
+
+|                |Time                        
+|----------------|-------------------------------
+|User Research | 90 Mins      
+|Brainstorming Ideas        |60 Mins : 13 - Feb - 2022      
+|Finalizing Ideas         | 60 Mins : 14 - Feb - 2022
+|Making Diagrams       | 70 Mins 15 : Feb - 2022
