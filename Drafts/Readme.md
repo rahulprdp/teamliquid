@@ -16,3 +16,7 @@ We constructed use case diagram and ER diagram of what a basic start to finish j
 ## Doctor 
 - A Doctor opens the app they can **Log** in as an existing user.
 - After Logging in the doctor can access the Home page, which has the following functionalities : Expense Sheet, Schedule and Patient History.
+
+
+## Class Diagram
+![enter image description here](https://raw.githubusercontent.com/spacepirate95/teamliquid/main/Drafts/classdiagram.drawio.png)
