@@ -13,6 +13,3 @@ Design a Clinic management system application to regulate interactions between d
 
 
 
-Project site (Under construction) : https://sites.google.com/view/teamliquid22/home
-
-
