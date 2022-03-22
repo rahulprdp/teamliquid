@@ -2,4 +2,5 @@
 - V1 of Use Case Diagram
 - V1 of Class Diagram
 - User Stories
-- ER Diagram
+- Meeting Minutes
+- Backlog
