@@ -7,7 +7,7 @@ Design a Clinic management system application to regulate interactions between d
 
 ## Team Members 
 - Rahul P P : AM.EN.U4CSE19344
-- Manu Krishna A : AM.EN.U4CSE1934
+- Manu Krishna A : AM.EN.U4CSE1933
 - Saran S Krishna : AM.EN.U4CSE19348
 - Sidharth Sreehari : AM.EN.U4CSE19351
 
