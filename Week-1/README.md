@@ -1,4 +1,4 @@
-## Weel 1
+## Week 1
 - V1 of Use Case Diagram
 - V1 of Class Diagram
 - User Stories
